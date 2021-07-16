@@ -5,7 +5,18 @@
 npm install
 ```
 
-### Compiles and hot-reloads for development
+## JSON-server install
+```
+npm install -g json-server
+```
+
+### To run the project, you need to open two terminals. 
+
+##In the first, you need to run json-server
+```
+json-server --watch db.json
+```
+## And in the second, the vue project itself
 ```
 npm run serve
 ```
@@ -14,6 +25,3 @@ npm run serve
 ```
 npm run build
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
