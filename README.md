@@ -7,7 +7,7 @@ npm install
 
 ## JSON-server install
 ```
-npm install -g json-server
+#npm install -g json-server
 ```
 
 ## To run the project, you need to open two terminals. 
