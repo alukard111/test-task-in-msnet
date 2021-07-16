@@ -11,8 +11,7 @@ npm install -g json-server
 ```
 
 ### To run the project, you need to open two terminals. 
-
-##In the first, you need to run json-server
+In the first, you need to run json-server
 ```
 json-server --watch db.json
 ```
