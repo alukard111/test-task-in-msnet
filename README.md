@@ -15,7 +15,7 @@ In the first, you need to run json-server
 ```
 json-server --watch db.json
 ```
-## And in the second, the vue project itself
+### And in the second, the vue project itself
 ```
 npm run serve
 ```
